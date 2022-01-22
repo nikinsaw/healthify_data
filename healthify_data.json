@@ -1,4 +1,4 @@
-{
+[
   {
     "model": "recipe_app.items",
     "pk": 1,
@@ -25,7 +25,7 @@
     "model": "recipe_app.items",
     "pk": 3,
     "fields": {
-     "title": "Prawn Salad",
+      "title": "Prawn Salad",
       "calories": 617,
       "url": "https://images.pexels.com/photos/3045731/pexels-photo-3045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "description": "Secretly an updated version of prawn cocktail, but a million times better than that description makes it sound.",
@@ -61,8 +61,9 @@
       "title": "Prawn Salad",
       "calories": 617,
       "url": "https://images.pexels.com/photos/3045731/pexels-photo-3045731.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "description": "Secretly an updated version of prawn cocktail, but a million times better than that description makes it sound.", "time": 10,
+      "description": "Secretly an updated version of prawn cocktail, but a million times better than that description makes it sound.",
+      "time": 10,
       "time": 8
     }
   }
-}
+]
